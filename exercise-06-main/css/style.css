@@ -32,26 +32,26 @@ time[datetime^="19"] {
 
 /* (Structural) Type Selectors */
 
-/* STEP 6B */ {
+nav a {
   color: rgb(69,105,159); /* blue */
 }
 
-/* STEP 3B */ {
+section {
   margin-bottom: 16px;
   padding: 16px;
   background-color: rgba(231,209,75,0.15); /* lt yellow */
 }
 
-/* STEP 10B */ {
+aside > p {
   font-style: italic;
 }
 
-/* STEP 6A */ {
+footer a  {
   color: #000;
 }
 
 
-/* id Selectors */
+#introduction
 /* STEP 4A */ {
   background-color: rgba(69,105,159,0.15); /* lt blue */
   border: 1px dashed rgb(69,105,159); /* blue */
