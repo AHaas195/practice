@@ -24,7 +24,7 @@ abbr[title] {
   text-decoration-style: wavy;
 }
 
-/* STEP 11B */ {
+time[datetime^="19"] {
   font-style: italic;
   color: rgb(69,105,159); /* blue */
 }
