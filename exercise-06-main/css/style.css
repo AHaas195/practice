@@ -57,11 +57,11 @@ footer a  {
   border: 1px dashed rgb(69,105,159); /* blue */
 }
 
-/* STEP 4B */ {
+#return-to-top {
   background-color: rgb(231,209,75); /* yellow */
 }
 
-/* STEP 8 */ {
+#geography aside  {
   border: 1px dashed rgb(69,105,159);
   padding-left: 16px;
 }
@@ -70,15 +70,15 @@ footer a  {
 
 /* class Selectors */
 
-/* STEP 5A */ {
+.first {
   font-weight: bold;
 }
 
-/* STEP 13 */ {
+.first::first-letter {
   font-size: 22px;
 }
 
-/* STEP 5B */ {
+.highlight {
   font-weight: bold;
   color: rgb(69,105,159); /* blue */
 }
