@@ -19,7 +19,7 @@ ul > li {
   list-style-type: square;
 }
 
-/* STEP 11A*/ {
+abbr[title] {
   text-decoration-color: rgb(69,105,159); /* blue */
   text-decoration-style: wavy;
 }
